@@ -1,3 +1,5 @@
+*forked as a reference*
+
 ### How to join Open Savannah and help propel the movement for better local government
 
 Getting started with the Open Savannah brigade is pretty dang easy, and doesn't require that you complete all of the following steps *per se*. That said, we do recommend you take the following steps *sequentially* to make the process as seamless as possible, both for you and for us. 
