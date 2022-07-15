@@ -1,4 +1,4 @@
-*🚧🚧work in progress🚧🚧*
+# 🚧🚧work in progress🚧🚧
 
 ## How to join Code for NoVA and help propel the movement for better local government
 
@@ -16,7 +16,7 @@ Visit our GetTogether group page at _______________. Select 'Join Group' to join
 
 ---
 
-# **3.** SIGN UP FOR A GITHUB ACCOUNT
+## SIGN UP FOR A GITHUB ACCOUNT
 
 We use [GitHub](http://github.com) for project management, file storage, documentation and code version control. If you already have a GitHub account, feel free to skip to Step 2. If you've never heard of GitHub or don't understand why we use GitHub, watch this [quick explainer video](https://www.youtube.com/watch?v=w3jLJU7DT5E) for a good introduction. Anyone can use GitHub; it doesn't require **any** programming knowledge. We'll use it as a collaborative tool for *all* our Brigade projects. To create a new GitHub account, take the following steps:
 
@@ -26,16 +26,16 @@ We use [GitHub](http://github.com) for project management, file storage, documen
 
 ---
 
-# **4.** LOG IN TO OPENSAVANNAH.ORG WITH YOUR GITHUB ACCOUNT
+## LOG IN TO ????? WITH YOUR GITHUB ACCOUNT
 
 *This is so we can list you in our member directory, add you to the mailing list, give you blogging/project creation privileges and more*
 
 ?: Is this still the case?: Our homepage, opensavannah.org, is powered by the [BrigadeHub](https://brigadehub.github.io) framework, which is under active development by [Code for San Francisco](http://code4sf.org) and Savannah brigade members, and available as [a repository](http://github.com/opensavannah/brigadehub/) on Open Savannah's GitHub page. BrigadeHub allows us to interact with the APIs (application programming interfaces) of Meetup, GitHub and Medium. Think of an API like a window into an application's data; we're using GitHub's API to pull in project data, Meetup's API to pull in event-related data, etc.
 
-# **6.** COME CHAT WITH THE GROUP ON SLACK
+## COME CHAT WITH THE GROUP ON SLACK
 
 We're currently communicating in real-time on Zulip which is an open source equivalent to Slack
 
-# **7.** MOST IMPORTANTLY, SHOW UP
+## MOST IMPORTANTLY, SHOW UP
 
 To make an impact, you've gotta show up. So, don't be a stranger. Come join us at our next event on [Meetup](http://meetup.com/opensavannah)!
